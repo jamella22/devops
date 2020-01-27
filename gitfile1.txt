@@ -1,4 +1,2 @@
 this is a file for git
 I added some new feature here!
-
-i have made some changes are they not good!
